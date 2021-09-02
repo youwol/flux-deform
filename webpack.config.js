@@ -35,7 +35,6 @@ module.exports = {
         '@youwol/cdn-client': '@youwol/cdn-client',
         '@youwol/flux-view': "@youwol/flux-view",
         '@youwol/dataframe': "@youwol/dataframe",
-        "@youwol/three-extra": "@youwol/three-extra",
         'three': {
             commonjs:'three',
             commonjs2:'three',

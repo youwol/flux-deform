@@ -839,15 +839,10 @@
   resolved "https://registry.yarnpkg.com/@youwol/flux-view/-/flux-view-0.0.9.tgz#12fcc8ea8b1b0dd40fdc627e21c4c71e17694016"
   integrity sha512-etJboVNlZJmKFDcq4rjqNpbiW8UhoJDjNz11QkaCj5fIa3Mb1XUh4q6TGVgUpdoOD9ut2+NmA+1lxAbZICJuRg==
 
-"@youwol/kepler@^0.0.9":
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/@youwol/kepler/-/kepler-0.0.9.tgz#a87d2aa9dcb8360db070c18b98ede36e2b982a94"
-  integrity sha512-IVgNeHzfA9LNji20rFo6T9n+M5icR62JUGbxTadUVi826j5Wtx+1RLtaUY4nAMXS9tUdGSqGvzz4am3WR5r5dw==
-
-"@youwol/three-extra@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@youwol/three-extra/-/three-extra-0.0.2.tgz#5d483953efeea8bbe25644b28860a674329481dd"
-  integrity sha512-u3QeWfWnpGX0cCyNMMaRftwJvxp5X1Z+t1+SUV9T0ZKYFCTkwoIoemoaZ7Cnp5PWuN1/57iByacr11VgtJTdZg==
+"@youwol/kepler@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@youwol/kepler/-/kepler-0.0.10.tgz#8aaf36bc81f557b4827523dcf897606e36be13eb"
+  integrity sha512-j07mwjCHkD6QXTpcP/HMNgdPvUPikbI05oMRwFcu3fN/vuhTen6U4tQETXB4FZFzIHdPMizH1xdjVlc25zXX5w==
 
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.5"
